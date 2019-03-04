@@ -1,0 +1,23 @@
+{
+  "name": "useanchor",
+  "description": "hooks exploration",
+  "private": true,
+  "main": "src/index.js",
+  "homepage": "https://codesandbox.io/s/github/Andarist/use-smooth-scroll/tree/master/examples/simple",
+  "keywords": [],
+  "dependencies": {
+    "emotion": "^9.2.12",
+    "react": "16.7.0-alpha.0",
+    "react-dom": "16.7.0-alpha.0",
+    "react-emotion": "^9.2.12",
+    "react-scripts": "2.0.3",
+    "use-smooth-scroll": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

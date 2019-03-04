@@ -1,2 +1,0 @@
-# useAnchor
-Created with CodeSandbox
