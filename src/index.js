@@ -13,7 +13,7 @@ const goToAnchor = () => {
   window.location.assign(
     `${window.location.origin}/#${getRandomScrollTarget()}`
   );
-  // window.location.reload();
+  window.location.reload();
 };
 
 const List = styled("div")``;
